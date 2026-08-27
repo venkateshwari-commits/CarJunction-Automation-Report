@@ -1,1 +1,1 @@
-{"reportName":"Allure Report","testRuns":[],"statistic":{"failed":1,"broken":0,"skipped":0,"passed":31,"unknown":0,"total":32},"time":{"start":1787816109766,"stop":1787816293289,"duration":183523,"minDuration":569,"maxDuration":17875,"sumDuration":125404}}
+{"reportName":"CarJunction Automation Report","testRuns":[],"statistic":{"failed":1,"broken":0,"skipped":0,"passed":31,"unknown":0,"total":32},"time":{"start":1787819722340,"stop":1787819898576,"duration":176236,"minDuration":403,"maxDuration":26177,"sumDuration":130567}}
