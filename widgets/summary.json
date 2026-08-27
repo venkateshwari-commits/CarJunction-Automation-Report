@@ -1,1 +1,1 @@
-{"reportName":"CarJunction Automation Report","testRuns":[],"statistic":{"failed":2,"broken":0,"skipped":9,"passed":2,"unknown":0,"total":13},"time":{"start":1787824696245,"stop":1787824868046,"duration":171801,"minDuration":157,"maxDuration":97907,"sumDuration":157417}}
+{"reportName":"CarJunction Automation Report","testRuns":[],"statistic":{"failed":2,"broken":0,"skipped":9,"passed":2,"unknown":0,"total":13},"time":{"start":1787825405385,"stop":1787825614944,"duration":209559,"minDuration":293,"maxDuration":102525,"sumDuration":186996}}
