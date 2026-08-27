@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"a83a8ec411f16faf2e5741a88cd98344","name":"Smoke","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{"total":10,"items":[{"uid":"1f17b2e190fbf11330d51e8d25ebb1ed","name":"Admin Panel","statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1}}]}
