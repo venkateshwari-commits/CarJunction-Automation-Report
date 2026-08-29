@@ -1,0 +1,9 @@
+[error] [2026-08-29 18:14:01.279] [error] API Error: polls/6a0474ff95eb5fe9ae6f7391/get-poll-votes
+  {
+  "errorName": "TypeError",
+  "errorMessage": "Failed to fetch",
+  "stack": "TypeError: Failed to fetch\n    at https://mycarjunction.com/_next/static/chunks/1zl2b4h1wxm89.js?dpl=bfe6102e-8c92-4d1e-94a1-3889e36d98e5:1:76628\n    at t0 (https://mycarjunction.com/_next/static/chunks/1zl2b4h1wxm89.js?dpl=bfe6102e-8c92-4d1e-94a1-3889e36d98e5:1:77934)\n    at https://mycarjunction.com/_next/static/chunks/1zl2b4h1wxm89.js?dpl=bfe6102e-8c92-4d1e-94a1-3889e36d98e5:1:76503\n    at https://mycarjunction.com/_next/static/chunks/2okx6972-a9s6.js?dpl=bfe6102e-8c92-4d1e-94a1-3889e36d98e5:1:3869\n    at Object.next (https://mycarjunction.com/_next/static/chunks/162b3hs17aiw3.js?dpl=bfe6102e-8c92-4d1e-94a1-3889e36d98e5:1:35374)\n    at r (https://mycarjunction.com/_next/static/chunks/0ie0z7b_0j__2.js?dpl=bfe6102e-8c92-4d1e-94a1-3889e36d98e5:1:2095)\n    at i (https://mycarjunction.com/_next/static/chunks/0ie0z7b_0j__2.js?dpl=bfe6102e-8c92-4d1e-94a1-3889e36d98e5:1:2301)\n    at https://mycarjunction.com/_next/static/chunks/0ie0z7b_0j__2.js?dpl=bfe6102e-8c92-4d1e-94a1-3889e36d98e5:1:2360\n    at new Promise (<anonymous>)\n    at https://mycarjunction.com/_next/static/chunks/0ie0z7b_0j__2.js?dpl=bfe6102e-8c92-4d1e-94a1-3889e36d98e5:1:2242",
+  "url": "polls/6a0474ff95eb5fe9ae6f7391/get-poll-votes",
+  "options": {},
+  "errorClass": "network"
+}
