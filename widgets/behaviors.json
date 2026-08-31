@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"c6ee0ed2169a6866c95e93a7d724ed36","name":"Lead Form Submission","statistic":{"failed":1,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":6}}]}
+{"total":2,"items":[{"uid":"c6ee0ed2169a6866c95e93a7d724ed36","name":"Lead Form Submission","statistic":{"failed":1,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":6}},{"uid":"1f17b2e190fbf11330d51e8d25ebb1ed","name":"Admin Panel","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
