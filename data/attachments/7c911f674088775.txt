@@ -1,0 +1,45 @@
+[error] [2026-09-04 11:37:23.304] [error] API Error: search/trending/all
+  {
+  "errorName": "TypeError",
+  "errorMessage": "Failed to fetch",
+  "stack": "TypeError: Failed to fetch\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76628\n    at t0 (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:77934)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76503\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ij0bsalm9hc1.js:1:4027\n    at Object.next (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/3da42nqxmac67.js:1:35263)\n    at r (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2095)\n    at i (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2301)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2360\n    at new Promise (<anonymous>)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2242",
+  "url": "search/trending/all",
+  "options": {},
+  "errorClass": "network"
+}
+[error] [2026-09-04 11:37:23.306] [error] API Error: location/city-default
+  {
+  "errorName": "TypeError",
+  "errorMessage": "Failed to fetch",
+  "stack": "TypeError: Failed to fetch\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76628\n    at t0 (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:77934)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76503\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ij0bsalm9hc1.js:1:4027\n    at Object.next (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/3da42nqxmac67.js:1:35263)\n    at r (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2095)\n    at i (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2301)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2360\n    at new Promise (<anonymous>)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2242",
+  "url": "location/city-default",
+  "options": {},
+  "errorClass": "network"
+}
+[error] [2026-09-04 11:37:23.306] [error] API Error: model/all?page=1&limit=5&sort=sort_order_asc&is_trending=true
+  {
+  "errorName": "TypeError",
+  "errorMessage": "Failed to fetch",
+  "stack": "TypeError: Failed to fetch\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76628\n    at t0 (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:77934)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76503\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ij0bsalm9hc1.js:1:4027\n    at Object.next (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/3da42nqxmac67.js:1:35263)\n    at r (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2095)\n    at i (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2301)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2360\n    at new Promise (<anonymous>)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2242",
+  "url": "model/all?page=1&limit=5&sort=sort_order_asc&is_trending=true",
+  "options": {},
+  "errorClass": "network"
+}
+[error] [2026-09-04 11:37:23.306] [error] API Error: poll/6a0474ff95eb5fe9ae6f7391/get-poll-votes
+  {
+  "errorName": "TypeError",
+  "errorMessage": "Failed to fetch",
+  "stack": "TypeError: Failed to fetch\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76628\n    at t0 (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:77934)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76503\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ij0bsalm9hc1.js:1:4027\n    at Object.next (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/3da42nqxmac67.js:1:35263)\n    at r (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2095)\n    at i (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2301)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2360\n    at new Promise (<anonymous>)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2242",
+  "url": "poll/6a0474ff95eb5fe9ae6f7391/get-poll-votes",
+  "options": {},
+  "errorClass": "network"
+}
+[error] [2026-09-04 11:37:23.306] [error] API Error: search/sponsored/all
+  {
+  "errorName": "TypeError",
+  "errorMessage": "Failed to fetch",
+  "stack": "TypeError: Failed to fetch\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76628\n    at t0 (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:77934)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/1zl2b4h1wxm89.js:1:76503\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ij0bsalm9hc1.js:1:4027\n    at Object.next (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/3da42nqxmac67.js:1:35263)\n    at r (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2095)\n    at i (https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2301)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2360\n    at new Promise (<anonymous>)\n    at https://seo-carj-frontend.tractorfirst.com/_next/static/chunks/0ie0z7b_0j__2.js:1:2242",
+  "url": "search/sponsored/all",
+  "options": {},
+  "errorClass": "network"
+}
