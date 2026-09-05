@@ -1,0 +1,9 @@
+[error] [2026-09-05 13:39:04.715] [error] API Error: reviews/all-reviews?limit=20&page=1
+  {
+  "errorName": "TypeError",
+  "errorMessage": "Failed to fetch",
+  "stack": "TypeError: Failed to fetch\n    at https://mycarjunction.com/_next/static/chunks/0hleg-0woi96a.js?dpl=9d6fe620-17ac-4e68-8dc5-69a1953b0e3b:1:76628\n    at t0 (https://mycarjunction.com/_next/static/chunks/0hleg-0woi96a.js?dpl=9d6fe620-17ac-4e68-8dc5-69a1953b0e3b:1:77934)\n    at https://mycarjunction.com/_next/static/chunks/0hleg-0woi96a.js?dpl=9d6fe620-17ac-4e68-8dc5-69a1953b0e3b:1:76503\n    at https://mycarjunction.com/_next/static/chunks/01r-b7lvgb65c.js?dpl=9d6fe620-17ac-4e68-8dc5-69a1953b0e3b:1:4016\n    at Object.next (https://mycarjunction.com/_next/static/chunks/3xfftf3mjai9q.js?dpl=9d6fe620-17ac-4e68-8dc5-69a1953b0e3b:1:35286)\n    at r (https://mycarjunction.com/_next/static/chunks/1gm2na6t0ilcc.js?dpl=9d6fe620-17ac-4e68-8dc5-69a1953b0e3b:1:2095)\n    at i (https://mycarjunction.com/_next/static/chunks/1gm2na6t0ilcc.js?dpl=9d6fe620-17ac-4e68-8dc5-69a1953b0e3b:1:2301)\n    at https://mycarjunction.com/_next/static/chunks/1gm2na6t0ilcc.js?dpl=9d6fe620-17ac-4e68-8dc5-69a1953b0e3b:1:2360\n    at new Promise (<anonymous>)\n    at https://mycarjunction.com/_next/static/chunks/1gm2na6t0ilcc.js?dpl=9d6fe620-17ac-4e68-8dc5-69a1953b0e3b:1:2242",
+  "url": "reviews/all-reviews?limit=20&page=1",
+  "options": {},
+  "errorClass": "network"
+}
