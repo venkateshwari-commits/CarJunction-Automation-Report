@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","219","Submit lead for Mileage/Range Variant section","Car Junction - Lead Form Submission","2026-09-05","passed","2026-09-05","","PDP - Mileage/Range Lead","",""
-"","5693","Verify the PDP page title","Car Junction - Lead Form Submission","2026-09-05","passed","2026-09-05","","PDP - Lead Submission","",""
-"","200","Submit lead for Mileage/Range","Car Junction - Lead Form Submission","2026-09-05","passed","2026-09-05","","PDP - Mileage/Range Lead","",""
+"","8720","Verify the PDP page title","Car Junction - Lead Form Submission","2026-09-05","passed","2026-09-05","","PDP - Lead Submission","",""
+"","316","Submit lead for Mileage/Range Variant section","Car Junction - Lead Form Submission","2026-09-05","broken","2026-09-05","","PDP - Mileage/Range Lead","",""
+"","15647","Submit lead for Mileage/Range","Car Junction - Lead Form Submission","2026-09-05","passed","2026-09-05","","PDP - Mileage/Range Lead","",""
