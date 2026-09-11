@@ -1,0 +1,4 @@
+[error] [2026-09-11 11:09:22.249] [error] Unhandled Error
+  {
+  "error": "Script error."
+}
